@@ -50,7 +50,7 @@ The model uses the previous 60 days of Open prices to predict the next day's pri
 
 3. Ensure `Tesla.csv` is in the same directory as the notebook.
 
-4. Open `lstm_stockprice.ipynb` using Jupyter Notebook or JupyterLab.
+4. Open `lstm_stockprice_tesla.ipynb` and run all cells.
 
 5. Run all cells to train the model and generate predictions.
 
