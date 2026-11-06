@@ -28,8 +28,7 @@ LSTM model that predicts Tesla's Open stock price from historical data. The mode
 ## How to Run
 1. Clone the repo: `git clone https://github.com/sukithrakanithra-coder/tesla_stockprice`
 2. Install packages: `pip install tensorflow pandas numpy matplotlib scikit-learn seaborn`
-3. Download Tesla.csv from the link above and update the file path in the notebook
-4. Open `lstm_stockprice.ipynb` and run all cells
+3. Open `lstm_stockprice.ipynb` and run all cells
 
 ## Results
 | Metric | Value |
