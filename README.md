@@ -5,7 +5,7 @@ This project uses a Long Short-Term Memory (LSTM) deep learning model to predict
 
 The model uses the previous 60 days of Open prices to predict the next day's price.
 
-## Dataset
+## Dataset 
 - **Source:** Tesla.csv (included in this repository)
 - **Rows:** 1692
 - **Columns:** 6
