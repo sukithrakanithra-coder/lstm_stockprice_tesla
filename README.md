@@ -4,7 +4,7 @@
 LSTM model that predicts Tesla's stock closing price from historical data.
 
 ## Dataset
-- Source: (Yahoo Finance / Kaggle, add link)
+- Source: (Yahoo Finance / Kaggle, add link) 
 - Columns used: Open, High, Low, Close, Volume
 - Period: (start date to end date)
 
