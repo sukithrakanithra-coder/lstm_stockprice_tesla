@@ -32,9 +32,9 @@ LSTM model that predicts Tesla's stock closing price from historical data.
 ## Results
 | Metric | Value |
 |--------|-------|
-| MAE | __ |
-| RMSE | __ |
-| MSE | __ |
+| MAE | 4.91  |
+| RMSE | 6.47 |
+| MSE | 41.86 |
 
 The model follows the overall trend well but lags during sudden spikes.
 
